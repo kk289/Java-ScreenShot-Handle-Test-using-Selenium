@@ -1,4 +1,4 @@
-<h2>Take Screenshots of the whole Gmail Login Process Using Selenium WebDriver</h2>
+<h2>Automate Screenshots of the whole Gmail Login Process Using Selenium WebDriver</h2>
 
 This program take an automatic screenshot of the whole Gmail login process, from gmail.com to the main email page. And also we provide a wrong gmail password in our second test where it capture a screenshot of a false Gmail password login.
 
