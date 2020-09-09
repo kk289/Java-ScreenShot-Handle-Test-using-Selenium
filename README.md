@@ -2,7 +2,6 @@
 
 This program take an automatic screenshot of the whole Gmail login process, from gmail.com to the main email page. And also we provide a wrong gmail password in our second test where it capture a screenshot of a false Gmail password login.
 
-<br>
 
 Lets start by following step:
 
