@@ -199,7 +199,7 @@ There are two tests in this program. First test run successfully since we provid
 Let's run the "screenshotHandle" class. The program run automatically, and once it is done, check the folder where you have saved your screenshots. All of my screenshots are provided below, in order:
 
 <p align="center">
-	<img title="1" width="800px" src="screenShot/_1MainPage.png" align="center"/>
+	<img title="1" alt="1" width="800px" src="screenShot/_1MainPage.png" align="center"/>
 	<br>
 	<br>
 	<img width="800px" src="screenShot/_2emailPage.png" align="center"/>
