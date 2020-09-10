@@ -199,25 +199,25 @@ There are two tests in this program. First test run successfully since we provid
 Let's run the "screenshotHandle" class. The program run automatically, and once it is done, check the folder where you have saved your screenshots. All of my screenshots are provided below, in order:
 
 <p align="center">
-	<img title="1" alt="1" width="800px" src="screenShot/_1MainPage.png" align="center"/>
+	<img title="Screenshot 1" alt="Screenshot 1" width="800px" src="screenShot/_1MainPage.png" align="center"/>
 	<br>
 	<br>
-	<img width="800px" src="screenShot/_2emailPage.png" align="center"/>
+	<img title="Screenshot 2" alt="Screenshot 2" width="800px" src="screenShot/_2emailPage.png" align="center"/>
 	<br>
 	<br>
-	<img width="800px" src="screenShot/_3passwordPage.png" align="center"/>
+	<img title="Screenshot 3" alt="Screenshot 3" width="800px" src="screenShot/_3passwordPage.png" align="center"/>
 	<br>
 	<br>
-	<img width="800px" src="screenShot/_4GmailPage.png" align="center"/>
+	<img title="Screenshot 4" alt="Screenshot 4" width="800px" src="screenShot/_4GmailPage.png" align="center"/>
 	<br>
 	<br>
-	<img width="800px" src="screenShot/_5emailPageNextTest.png" align="center"/>
+	<img title="Screenshot 5" alt="Screenshot 5" width="800px" src="screenShot/_5emailPageNextTest.png" align="center"/>
 	<br>
 	<br>
-	<img width="800px" src="screenShot/_6wrongPasswordEnter.png" align="center"/>
+	<img title="Screenshot 6" alt="Screenshot 6" width="800px" src="screenShot/_6wrongPasswordEnter.png" align="center"/>
 	<br>
 	<br>
-	<img width="800px" src="screenShot/_7wrongPasswordMessage.png" align="center"/>
+	<img title="Screenshot 7" alt="Screenshot 7" width="800px" src="screenShot/_7wrongPasswordMessage.png" align="center"/>
 </p>
 
 <br>
