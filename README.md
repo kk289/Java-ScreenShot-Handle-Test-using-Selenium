@@ -106,20 +106,6 @@ An example of [pom.xml](https://github.com/kk289/Java-ScreenShot-Handle-Test-usi
      	 	<scope>test</scope>
     	</dependency>
 
-    	<dependency>
-     	 	<groupId>org.example</groupId>
-      		<artifactId>AutomationJava</artifactId>
-      		<version>1.0-SNAPSHOT</version>
-      		<scope>test</scope>
-    	</dependency>
-
-    	<dependency>
-      		<groupId>javax.mail</groupId>
-      		<artifactId>mail</artifactId>
-      		<version>1.4</version>
-     		<scope>provided</scope> <!-- add this only if code will run in a java container (i.e. tomcat, etc)-->
-    	</dependency>
-
     </dependencies>
 
 </project>
