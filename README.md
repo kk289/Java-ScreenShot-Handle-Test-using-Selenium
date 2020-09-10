@@ -218,6 +218,9 @@ Let's run the "screenshotHandle" class. The program run automatically, and once 
 	<br>
 	<br>
 	<img title="Screenshot 7" alt="Screenshot 7" width="800px" src="screenShot/_7wrongPasswordMessage.png" align="center"/>
+	<br>
+	<br>
+	<img width="800px" src="screenShot/_8testPassed.png" align="center"/>
 </p>
 
 <br>
