@@ -194,12 +194,12 @@ public class screenshotHandle {
 }
 ```
 
-There are two tests in this program. First test run successfully since we provide correct gmail account and password. In second test, we provide wrong gmail password which way main gmail page wont open. Both test runs automatically as we run the code, so we just need to sit back and watch it. Also all screenshots are saved in given directory, like I put this path -> "/Users/kevilkhadka/IdeaProjects/AutomationJava/src/test/screenShot/". We can easily replace the path wherever we want to save all screenshots. And I am using png extension for all screenshots, just change the extension whichever you want, like ".jpg". Also Make sure to enter gmail address and password wherever it ask you to enter on the main program file.
+There are two tests in this program. First test run successfully since we provide correct gmail account and password. In second test, we provide wrong gmail password which way main gmail page wont open. Both test runs automatically as we run the code, so we just need to sit back and watch it. Also all screenshots are saved in given directory, like I put this path -> "/Users/kevilkhadka/IdeaProjects/AutomationJava/src/test/screenShot/". We can easily replace the path wherever we want to save all screenshots. And I am using png extension for all screenshots, just change the extension whichever you want, like ".jpg". Make sure to enter gmail address and password wherever it asks you to enter on the main program file.
 
 Let's run the "screenshotHandle" class. The program run automatically, and once it is done, check the folder where you have saved your screenshots. All of my screenshots are provided below, in order:
 
 <p align="center">
-	<img width="800px" src="screenShot/_1MainPage.png" align="center"/>
+	<img title="1" width="800px" src="screenShot/_1MainPage.png" align="center"/>
 	<br>
 	<br>
 	<img width="800px" src="screenShot/_2emailPage.png" align="center"/>
